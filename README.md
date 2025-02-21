@@ -1,6 +1,3 @@
-**README.md**
-
-```markdown
 # Streamlit with 1Go Parquet
 
 Ce dépôt propose une application Streamlit simple qui lit un fichier Parquet d'environ 1 Go en utilisant Polars pour un traitement performant des gros datasets.
