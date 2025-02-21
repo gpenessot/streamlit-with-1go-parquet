@@ -1,0 +1,11 @@
+[project]
+name = "streamlit-with-1go-parquet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.3",
+    "polars>=1.22.0",
+    "streamlit>=1.42.2",
+]
