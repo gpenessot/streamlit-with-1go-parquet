@@ -13,7 +13,7 @@ Ce dépôt propose une application Streamlit simple qui lit un fichier Parquet d
 
 1. Clonez le dépôt et accédez au dossier du projet :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone git@github.com:gpenessot/streamlit-with-1go-parquet.git
    cd streamlit-with-1go-parquet
    ```
 
